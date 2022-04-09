@@ -120,6 +120,7 @@ button.create{
         height: 60%;
         clip-path: none;
     }
+    
     .wrapper{
         position: static;
         display: block;
